@@ -37,7 +37,7 @@
                         "readonly": "",
                         "readonlyLabel": "",
                         "size": "",
-                        "storeNumeric": "",
+                        "storeNumeric": "true",
                         "style": "",
                         "validator": {
                             "className": "",
