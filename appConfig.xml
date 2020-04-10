@@ -1,0 +1,14 @@
+<appDefinition>
+   <id>SmallTestApp</id>
+   <version>1</version>
+   <name>SmallTestApp</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
