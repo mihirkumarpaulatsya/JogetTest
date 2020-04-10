@@ -1,0 +1,36 @@
+{
+    "actions": [],
+    "binder": {
+        "className": "org.joget.plugin.enterprise.AdvancedFormRowDataListBinder",
+        "properties": {"formDefId": "SmallTestAppForm"}
+    },
+    "buttonPosition": "bottomLeft",
+    "checkboxPosition": "left",
+    "columns": [
+        {
+            "id": "column_0",
+            "label": "ID",
+            "name": "id"
+        },
+        {
+            "id": "column_1",
+            "label": "Student Name",
+            "name": "studentname"
+        },
+        {
+            "id": "column_2",
+            "label": "StudentAge",
+            "name": "studentAge"
+        }
+    ],
+    "filters": [],
+    "id": "list_SmallTestAppForm",
+    "name": "List - SmallTestAppForm",
+    "order": "",
+    "orderBy": "",
+    "pageSize": 0,
+    "pageSizeSelectorOptions": "10,20,30,40,50,100",
+    "rowActions": [],
+    "showPageSizeSelector": "true",
+    "useSession": "false"
+}
