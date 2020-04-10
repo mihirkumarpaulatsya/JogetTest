@@ -8,19 +8,7 @@
          <id>SmallTestApp</id>
          <version>1</version>
          <name>SmallTestApp</name>
-         <packageActivityFormMap>
-            <entry>
-               <string>process1::activity1</string>
-               <packageActivityForm>
-                  <processDefId>process1</processDefId>
-                  <activityDefId>activity1</activityDefId>
-                  <formId>AverageOfAge</formId>
-                  <type>SINGLE</type>
-                  <autoContinue>false</autoContinue>
-                  <disableSaveAsDraft>false</disableSaveAsDraft>
-               </packageActivityForm>
-            </entry>
-         </packageActivityFormMap>
+         <packageActivityFormMap/>
          <packageActivityPluginMap/>
          <packageParticipantMap>
             <entry>
