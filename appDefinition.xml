@@ -8,7 +8,19 @@
          <id>SmallTestApp</id>
          <version>1</version>
          <name>SmallTestApp</name>
-         <packageActivityFormMap/>
+         <packageActivityFormMap>
+            <entry>
+               <string>process1::runProcess</string>
+               <packageActivityForm>
+                  <processDefId>process1</processDefId>
+                  <activityDefId>runProcess</activityDefId>
+                  <formId>SmallTestAppForm</formId>
+                  <type>SINGLE</type>
+                  <autoContinue>false</autoContinue>
+                  <disableSaveAsDraft>false</disableSaveAsDraft>
+               </packageActivityForm>
+            </entry>
+         </packageActivityFormMap>
          <packageActivityPluginMap/>
          <packageParticipantMap>
             <entry>
