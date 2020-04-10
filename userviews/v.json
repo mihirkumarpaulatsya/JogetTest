@@ -83,8 +83,6 @@
         "welcomeMessage": "#date.EEE, d MMM yyyy#"
     },
     "setting": {"properties": {
-        "mobileCacheEnabled": "",
-        "mobileViewDisabled": "",
         "permission": {
             "className": "",
             "properties": {}
@@ -97,6 +95,8 @@
                 "buttonTextColor": "WHITE",
                 "fontColor": "WHITE",
                 "menuFontColor": "BLACK",
+                "mobileCacheEnabled": "",
+                "mobileViewDisabled": "",
                 "primaryColor": "INDIGO",
                 "themeScheme": "light"
             }
